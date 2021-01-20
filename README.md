@@ -36,6 +36,18 @@
 
 # Management
 
-`user` - user management
+## User
 
-`item` - rent item management
+- Get the list of users from the database.
+
+- Create or Update the user information.
+
+- Delete the user based on the request id.
+
+## Item
+
+- Get the list of items from the database.
+
+- Create or Update the item information.
+
+- Delete the item based on the request id.
