@@ -1,16 +1,10 @@
-######################
-Application setup
-######################
+#Application setup
 `npm install` - install required packages from package.json
 
-######################
-To start the application
-########################
+#To start the application
 `npm start` - start the server
 
-##########################
-Folder structure
-##########################
+#Folder structure
 `dist` - build file
 `logs` - logger file is available here
 `src` - source code
@@ -26,8 +20,6 @@ Folder structure
 `tsconfig.json`- typescript compile configuration
 `tslint.json` - typescript lint file
 
-#############################
-Management
-##########################
+#Management
 `user` - user management
 `item` - rent item management
