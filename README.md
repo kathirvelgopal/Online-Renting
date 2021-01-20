@@ -1,16 +1,22 @@
-#Application setup
+# Application Setup
 `npm install` - install required packages from package.json
 
-#To start the application
+# To start the application
 `npm start` - start the server
 
-#Folder structure
+# Folder structure
 `dist` - build file
+
 `logs` - logger file is available here
+
 `src` - source code
+
 `config` - configuration db,winston logger file
+
 `models` - schema definition
+
 `repository` - common function based on schema
+
 `routes` - define the route url
 `types` - define data types validation
 `utils` - utility files
@@ -20,6 +26,6 @@
 `tsconfig.json`- typescript compile configuration
 `tslint.json` - typescript lint file
 
-#Management
+# Management
 `user` - user management
 `item` - rent item management
